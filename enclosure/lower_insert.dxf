@@ -1121,9 +1121,9 @@ AcDbViewportTableRecord
  21
 1
  12
-5.603757189163463
+2.90601602330692
  22
-1.756706384938242
+0.4156570390919886
  13
 0
  23
@@ -1149,7 +1149,7 @@ AcDbViewportTableRecord
  37
 0
  40
-11.20751437832693
+5.898030054701838
  41
 1.756986634264885
  42
@@ -2241,7 +2241,7 @@ AcDbLayerTableRecord
   2
 0
  70
-    1
+    0
  62
     7
   6
@@ -2285,7 +2285,7 @@ AcDbLayerTableRecord
   2
 const_0
  70
-    1
+    0
  62
   253
 420
@@ -2309,7 +2309,7 @@ AcDbLayerTableRecord
   2
 const_1
  70
-    1
+    0
  62
     8
   6
@@ -2331,7 +2331,7 @@ AcDbLayerTableRecord
   2
 mainbat
  70
-    1
+    0
  62
     6
   6
@@ -2353,7 +2353,7 @@ AcDbLayerTableRecord
   2
 picam
  70
-    1
+    0
  62
     5
   6
@@ -2375,7 +2375,7 @@ AcDbLayerTableRecord
   2
 pwrctlr_bat
  70
-    1
+    0
  62
     4
   6
@@ -2397,7 +2397,7 @@ AcDbLayerTableRecord
   2
 tsl_2591
  70
-    1
+    0
  62
    40
 420
@@ -13884,6 +13884,28 @@ AcDbCircle
 -1.8
  40
 0.15
+  0
+CIRCLE
+  5
+1F1
+100
+AcDbEntity
+  8
+vector
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+1.175
+ 20
+-1.82
+ 40
+0.0625
   0
 ENDSEC
   0
