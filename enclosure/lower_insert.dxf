@@ -91,7 +91,7 @@ STANDARD
   9
 $CLAYER
   8
-vector
+const_1
   9
 $CELTYPE
   6
@@ -1121,9 +1121,9 @@ AcDbViewportTableRecord
  21
 1
  12
-1.110459157852924
+1.712224375601933
  22
--0.4852676748794279
+-0.08297122524943287
  13
 0
  23
@@ -1149,7 +1149,7 @@ AcDbViewportTableRecord
  37
 0
  40
-1.63343679519742
+3.103878108194693
  41
 1.756986634264885
  42
@@ -13906,6 +13906,94 @@ AcDbCircle
 -1.63976
  40
 0.058
+  0
+CIRCLE
+  5
+1F2
+100
+AcDbEntity
+  8
+const_0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+1.53081e-17
+ 20
+-1.63976
+ 40
+0.25
+  0
+CIRCLE
+  5
+1F3
+100
+AcDbEntity
+  8
+const_0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+1.175
+ 20
+-1.82
+ 40
+0.25
+  0
+CIRCLE
+  5
+1F4
+100
+AcDbEntity
+  8
+const_1
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+1.530808498934192e-17
+ 20
+-1.639763779527716
+ 40
+0.4
+  0
+CIRCLE
+  5
+1F5
+100
+AcDbEntity
+  8
+const_1
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+1.175
+ 20
+-1.82
+ 40
+0.4
   0
 ENDSEC
   0
