@@ -69,7 +69,6 @@ void loop()
     }
     
     Snooze.deepSleep(config);
-    min_cnt++;
     min_cnt = (min_cnt + 1)%IMAGE_INTERVAL;
 }
 
