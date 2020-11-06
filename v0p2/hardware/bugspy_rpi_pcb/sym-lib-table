@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name rpi)(type Legacy)(uri ${KIPRJMOD}/rpi.lib)(options "")(descr ""))
+  (lib (name pololu)(type Legacy)(uri ${KIPRJMOD}/pololu.lib)(options "")(descr ""))
+  (lib (name teensy3)(type Legacy)(uri ${KIPRJMOD}/teensy3.lib)(options "")(descr ""))
+  (lib (name adafruit)(type Legacy)(uri ${KIPRJMOD}/adafruit.lib)(options "")(descr ""))
+)
